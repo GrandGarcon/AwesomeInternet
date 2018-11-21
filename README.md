@@ -11,7 +11,8 @@ this repo will list  and discuss  the standards   formulated  by the  IETF
 
 3. [Autonomous network standards in the Internet](https://datatracker.ietf.org/doc/rfc7575/) `kind of optimistic  goals for network  to be implemented by the standards and language which resembles XML.` <br> 
    a. try to make some tutorials on this specification.
-4.
+
+4. the I in the IOT :- [ this link]() consist of the important points that my professor discussed  in the last lecture  regarding the lates suite of protocols initiated by the developer community to adjust the networked things into the obsolete and resource hungry  IPV6.
 
 
    
