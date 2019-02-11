@@ -15,5 +15,10 @@ this repo will list  and discuss  the standards   formulated  by the  IETF
 4. the I in the IOT :- [ this link]() consist of the important points that my professor discussed  in the last lecture  regarding the lates suite of protocols initiated by the developer community to adjust the networked things into the obsolete and resource hungry  IPV6.
 
 
+## For Standard Implementation of Cryptographic Protocols
+
 5.[ RFC 7748 - elliptic curve security](https://tools.ietf.org/html/rfc7748) :- consist of  implpementation standard for curve25519 and X3DH
    
+
+## For A radical approach for making  Applications run on bare metal (Kernel as a service)
+1. [Making super efficient Applications on docker env - the future of OS](https://qconlondon.com/system/files/presentation-a/the_modern_operating_system_in_2018.pdf)
