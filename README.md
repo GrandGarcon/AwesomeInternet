@@ -14,7 +14,7 @@ this repo will list  and discuss  the standards   formulated  by the  IETF
 
 4. the I in the IOT :- [ this link]() consist of the important points that my professor discussed  in the last lecture  regarding the lates suite of protocols initiated by the developer community to adjust the networked things into the obsolete and resource hungry  IPV6.
 
-
+5. G3-PLC and powerline :- the connected objects via Electrical Lines (referece :- https://arxiv.org/pdf/1602.09019.pdf)
    
 
 ## For A radical approach for making  Applications run on bare metal (Kernel as a service)
